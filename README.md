@@ -1,2 +1,2 @@
 # hexeditplus
-lab 7
+simple hexedit like program to edit and display binary files.
